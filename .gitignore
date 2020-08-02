@@ -1,0 +1,7 @@
+### IntelliJ IDEA ###
+.idea/
+out/
+target/
+logs/
+Maven_web.imi
+
